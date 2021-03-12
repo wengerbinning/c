@@ -23,6 +23,12 @@
 
 C语言开发环境需要编辑器与编译器的支持，编辑器用于编辑源码，编译器用于将源码编译成可执行程序。
 
+### Virtual Studio Code
+
+* task.json:是构建指令的配置文件.
+* launch.json:是调试器的配置文件.
+* c_cpp_properc_cpp_properties.json:是编译器路径和智能感知配置文件.
+
 ## 历史简介
 
 
